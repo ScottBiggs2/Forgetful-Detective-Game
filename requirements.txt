@@ -1,0 +1,13 @@
+streamlit>=1.28.0
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+transformers ==4.42.2
+peft == 0.10.0
+accelerate>=0.20.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+sentence-transformers
+scikit-learn
+numpy
+datasets ==2.18.0
