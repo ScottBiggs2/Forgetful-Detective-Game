@@ -14,10 +14,9 @@ An interactive detective game powered by AI, where you work alongside Detective 
 
 1. Clone the repository:
 
-# NEEDS HUMAN UPDATE
 ```bash
-git clone https://github.com/yourusername/ai-detective-game.git
-cd ai-detective-game
+git clone https://github.com/ScottBiggs2/Forgetful-Detective-Game.git
+cd Forgetful-Detective-Game
 ```
 
 2. Create and activate a virtual environment:
@@ -100,6 +99,7 @@ python supervised_fine_tuning/LoRA_training.py
 ```
 Remember to save it to your HuggingFace hub by following the terminal commands after the script runs.
 
+If you're interested in the tuned version the app calls, you can find it on HuggingFace at https://huggingface.co/ScottBiggs2/tinyllama_detective_test 
 
 ### Adding New Cases
 
@@ -124,8 +124,6 @@ The fine-tuned TinyLLaMA trained is available at https://huggingface.co/ScottBig
 
 ## 📞 Contact
 
-For questions or feedback, please open an issue or reach out to [your contact information].
+For questions or feedback, please open an issue or reach out to me at scottbiggs2001@gmail.com
 
 ---
-
-Made with ❤️ by [Your Name] 
